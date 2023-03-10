@@ -3,4 +3,4 @@ Hacker Resolusi
 - Mempelajari HTML & CSS
 - Mempelajari Javascript
 - Membuat website portofolio
-- Membuat forum diskusi
+- Membuat kolaborasi dengan banyak expert
