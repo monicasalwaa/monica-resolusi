@@ -1,0 +1,5 @@
+Hacker Resolusi
+- Membuat akun GitHub
+- Mempelajari HTML & CSS
+- Mempelajari Javascript
+- Membuat website portofolio
